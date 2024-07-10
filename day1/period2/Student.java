@@ -1,14 +1,16 @@
 package jiu24summer.day1.period2;
 
-public class Student {
+public class Student extends Person{
     private String studentId;
     private int grade;
     private String major;
 
     // constructor
-    public Student(String name, int age, String gender, String studentId) {
+    public Student(String name, int age, String gender, String studentId, int grade, String major) {
         super(name, age, gender);
         this.studentId = studentId;
+        this.grade = grade;
+        this.major = major;
     }
 
     @Override
