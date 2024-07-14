@@ -1,3 +1,5 @@
+package day1.period2;
+
 public class MathTeacher extends Teacher {
 
     public MathTeacher(String name, int age, String gender) {

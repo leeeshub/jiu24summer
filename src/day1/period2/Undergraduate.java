@@ -1,3 +1,5 @@
+package day1.period2;
+
 public class Undergraduate extends Student {
     private double totalGrade;
     private int earnedCredit;

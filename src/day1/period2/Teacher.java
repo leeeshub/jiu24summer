@@ -1,4 +1,4 @@
-package jiu24summer.day1.period2;
+package day1.period2;
 
 public class Teacher extends Person {
     private String subject;

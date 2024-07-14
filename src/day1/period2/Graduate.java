@@ -1,4 +1,4 @@
-import jiu24summer.day1.period2.Student;
+package day1.period2;
 
 public class Graduate extends Student {
     private String researchArea;
