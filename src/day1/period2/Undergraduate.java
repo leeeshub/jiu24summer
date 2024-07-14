@@ -1,5 +1,3 @@
-import jiu24summer.day1.period2.Student;
-
 public class Undergraduate extends Student {
     private double totalGrade;
     private int earnedCredit;

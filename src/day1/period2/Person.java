@@ -1,5 +1,3 @@
-package jiu24summer.day1.period2;
-
 public class Person {
     private String name;
     private int age;
