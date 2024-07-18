@@ -1,4 +1,4 @@
-package day1.period2;
+package day1.period3;
 
 public class Teacher extends Person {
     private String subject;

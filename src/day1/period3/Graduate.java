@@ -1,4 +1,4 @@
-package day1.period2;
+package day1.period3;
 
 public class Graduate extends Student {
     private String researchArea;
